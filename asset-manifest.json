@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/colmena3637andHalf/static/css/main.69524c15.css",
+    "main.js": "/colmena3637andHalf/static/js/main.cf2dc3d0.js",
+    "index.html": "/colmena3637andHalf/index.html",
+    "main.69524c15.css.map": "/colmena3637andHalf/static/css/main.69524c15.css.map",
+    "main.cf2dc3d0.js.map": "/colmena3637andHalf/static/js/main.cf2dc3d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69524c15.css",
+    "static/js/main.cf2dc3d0.js"
+  ]
+}
